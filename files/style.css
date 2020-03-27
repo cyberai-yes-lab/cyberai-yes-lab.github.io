@@ -42,7 +42,7 @@ div#box {
     margin-right: auto;
     margin-top: 0;
     padding: 25px 5px 20px;
-    width: 850px;
+    width: 900px;
 }
 
 #menu1 li {
@@ -62,7 +62,7 @@ div#box {
     padding-top: 6px;
     text-align: center;
     text-decoration: none;
-    width: 100px;
+    width: 95px;
 }
 
 #menu1 a:hover {
